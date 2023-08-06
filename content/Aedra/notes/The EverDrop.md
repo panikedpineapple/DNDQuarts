@@ -1,0 +1,1 @@
+A magical Nexes that generates all the water that flows through all of Elaria. Located deep underground inside the mountain of [[The Mannito]] in [[Ranor]]. Above the nexes, the floating city of [[Volantis]]
