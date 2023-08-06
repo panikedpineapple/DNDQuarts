@@ -1,11 +1,10 @@
-baseURL = "https://panikedpineapple.github.io/DNDQuarts"
+baseURL = "https://panikedpineapple.github.io/DNDQuarts/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
-    "/content/notes/*",
     "/content/DM Notes/*"
 ]
 summaryLength = 20
