@@ -1,4 +1,0 @@
-
-The records between [[the sundering]] and the [[Primacy Wars]] are sparse at best. Not much is known about how the world rebuild. From some remains and archaeological studies, it is widely believed  to be the period of the reign of [[slyvian elar]] . 
-
-Every region has their own legends for this period and the truth has been lost to the ages. The most accepted history calling this the golden age of the Empire of Elaria, a time of fading magic captured for eternity in ancient devices. The only such known devices still remaining are the [[The EverDrop]] and the [[The Hearth]]  , both essential for life in this sundered land.

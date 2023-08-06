@@ -1,0 +1,1 @@
+A magical Nexes that generates all the water that flows through all of Elaria. Located deep underground inside the mountain of [[Aedra/Locations/The Mansar]] in [[Aedra/Events/Ranor]]. Above the nexes, the floating city of [[Aedra/Locations/Volantis]]

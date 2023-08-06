@@ -4,15 +4,15 @@
 *********
 # History
 
-### [[The Sundering]]
+### [[Aedra/Events/The Sundering]]
 
-### [[The Dark ages]]
+### [[Aedra/Events/The Dark ages]]
 
-### [[Primacy Wars]]
+### [[Aedra/Events/Primacy Wars]]
 
-### [[The Green Nightmare]] 
+### [[Aedra/Events/The Green Nightmare]] 
 
-### [[The Fall of Ranor]]
+### [[Aedra/Events/The Fall of Ranor]]
 
 
 _____
@@ -20,7 +20,7 @@ _____
 
 ### Major Cities
 
-- [[Volantis]] 
+- [[Aedra/Locations/Volantis]] 
 - [[Skern]]
 - [[helbane]]
 - [[flugor]]
