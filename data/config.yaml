@@ -1,4 +1,4 @@
-name: Shivaam Gupta
+name: Shivam Gupta
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -22,5 +22,5 @@ description:
 page_title:
   "Elaria"
 links:
-
-
+  - link_name: Twitter
+    link: https://twitter.com/_jzhao
