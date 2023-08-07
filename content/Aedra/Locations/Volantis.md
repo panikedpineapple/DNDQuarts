@@ -5,7 +5,7 @@ tags :
 faction: Asfari Syndicate
 ---
 
-![[Aedra/Locations/attachments/slohginfizz_SUBJECT_thousands_of_massive_water_fountains_STYLE__2c69e695-330e-4684-b4b2-cf015ff9b5e8.png]]
+![Volantis](Aedra/Locations/attachments/slohginfizz_SUBJECT_thousands_of_massive_water_fountains_STYLE__2c69e695-330e-4684-b4b2-cf015ff9b5e8.png)
 ### Intro
 The Floating city of Volantis is a freehold city located on the highest point in [[Aedra/Locations/The Mansar|The Mansar]] Mountain range. The old capital of the kingdom of ranor, the city is now ruled by the [[Aedra/Factions/Asfari Syndicate|Asfari Syndicate]] 
 
