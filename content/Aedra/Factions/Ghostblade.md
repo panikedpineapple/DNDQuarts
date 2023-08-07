@@ -1,0 +1,1 @@
+Originally a travelling group of bards and performers, their rise to power was sudden and exponential. Under the care of [[Adeli]] , the ghostblades now run most of the entertainment in the region. Their trades includes running taverns and night keeps, 

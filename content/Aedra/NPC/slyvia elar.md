@@ -1,0 +1,5 @@
+---
+location: 
+tags:
+- NPC
+---

@@ -1,1 +1,2 @@
 
+The ones blessed by the [[Glade Mother]]. Their close affinity with life and the earth make them excellent healers and potion masters. Runs the merchants guilds and the pharmacies. Founders of the [[Golden Room]] 
