@@ -15,7 +15,7 @@ A city divided into many self contained floating sections, volantis was the cent
 ### Places of Interest
 
 - [[The repository]] -- The newly constructed grand library and centre for arcane implements
-- [[Abyssal Grey]] -- underwater community of ex-cons and crimelords
+- [[Abyssal Grey]] -- underwater community of ex-cons
 - [[Primal Square]] -- The headquarters of the church of primal beings.
 - [[Morning Dew]] -- most popular adventurer's tavern
 - [[Jewel of Ranor]] -- High end restaurant famous among the wealthy
